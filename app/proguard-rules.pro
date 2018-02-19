@@ -1,0 +1,2 @@
+-keep class notes.adapter.** { *; }
+-keep class notes.model.** { *; }

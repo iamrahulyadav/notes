@@ -55,6 +55,6 @@
 
         ads:adSize="SMART_BANNER"
 
-        ads:adUnitId="ca-app-pub-3940256099942544/6300978111">
+        ads:adUnitId="ca-app-pub-3736041520074042/9775956217">
     </com.google.android.gms.ads.AdView>
 </LinearLayout>
